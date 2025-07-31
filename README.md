@@ -13,7 +13,6 @@ The core problem is to classify driver behaviors using **telematics data** and t
 * 🚗 **Aggressive Driver**
 * 🚙 **Normal Driver**
 * ⚠️ **Reckless Driver**
-* 🛡️ **Defensive (Safe) Driver**
 
 As an advanced step, a **"Risk Score"** can be calculated based on these categories. Such a score could be leveraged by insurers for **policy pricing** and **risk strategy formulation**.
 
